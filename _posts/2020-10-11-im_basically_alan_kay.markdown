@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I'm Basically Alan Kay"
-date:       2020-10-11 18:49:16 +0000
+date:       2020-10-11 14:49:17 -0400
 permalink:  im_basically_alan_kay
 ---
 
