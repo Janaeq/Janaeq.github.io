@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Sinatra Project"
-date:       2020-12-14 14:33:31 +0000
+date:       2020-12-14 09:33:31 -0500
 permalink:  sinatra_project
 ---
 
 
-I'll first start off by saying that this project, like the last, was pretty easy once I got the hang of it.
+This project, like the last, was pretty easy once I got the hang of it.
 
 **However**
 
