@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "React Re-renders"
+title:      "React Re-Renders"
 date:       2021-07-02 20:39:16 -0400
 permalink:  react_re-renders
 ---
